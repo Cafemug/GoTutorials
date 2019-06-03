@@ -6,5 +6,7 @@ var x, y, z int
 var c, python, java bool
 
 func main() {
-    fmt.Println(x, y, z, c, python, java)
+	fmt.Println(x, y, z, c, python, java)
 }
+
+// 복습 완료
