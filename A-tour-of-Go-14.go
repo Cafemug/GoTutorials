@@ -12,3 +12,4 @@ func main() {
     const Truth = true
     fmt.Println("Go rules?", Truth)
 }
+// 복습 완료
