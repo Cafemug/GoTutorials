@@ -17,3 +17,4 @@ func main() {
     fmt.Println(needFloat(Small))
     fmt.Println(needFloat(Big))
 }
+// 복습 완료
