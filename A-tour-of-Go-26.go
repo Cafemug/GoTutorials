@@ -12,3 +12,5 @@ func main() {
 	v.X = 4
 	fmt.Println(v.X)
 }
+
+// 복습 완료
