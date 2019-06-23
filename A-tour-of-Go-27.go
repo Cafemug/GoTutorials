@@ -13,3 +13,4 @@ func main() {
     q.X = 1e9
     fmt.Println(p)
 }
+// 복습 완료
