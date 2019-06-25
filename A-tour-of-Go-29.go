@@ -12,3 +12,4 @@ func main() {
     v.X, v.Y = 11, 9
     fmt.Println(v)
 }
+// 복습 완료
