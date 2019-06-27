@@ -13,3 +13,4 @@ func main() {
     // missing high index implies len(s)
     fmt.Println("p[4:] ==", p[4:])
 }
+// 복습 완료s
