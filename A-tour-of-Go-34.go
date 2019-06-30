@@ -9,3 +9,4 @@ func main() {
 		fmt.Printf("2**%d = %d\n", i, v)
 	}
 }
+// 복습 완료
