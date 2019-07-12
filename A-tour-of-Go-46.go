@@ -19,3 +19,4 @@ func main() {
         fmt.Println("Too far away.")
     }
 }
+// 복습 완료
