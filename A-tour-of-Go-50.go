@@ -17,3 +17,5 @@ func main() {
     v := &Vertex{3, 4}
     fmt.Println(v.Abs())
 }
+
+// 복습 완료
