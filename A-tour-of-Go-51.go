@@ -18,3 +18,4 @@ func main() {
     f := MyFloat(-math.Sqrt2)
     fmt.Println(f.Abs())
 }
+// 복습 완료
