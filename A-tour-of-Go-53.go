@@ -38,3 +38,4 @@ type Vertex struct {
 func (v *Vertex) Abs() float64 {
     return math.Sqrt(v.X*v.X + v.Y*v.Y)
 }
+// 복습 완료
