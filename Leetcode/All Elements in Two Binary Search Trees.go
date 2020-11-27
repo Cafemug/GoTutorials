@@ -1,13 +1,5 @@
 import "sort"
 
-/**
- * Definition for a binary tree node.
- * type TreeNode struct {
- *     Val int
- *     Left *TreeNode
- *     Right *TreeNode
- * }
- */
 func makeList(root *TreeNode) []int {
 	if root == nil {
 		return nil
